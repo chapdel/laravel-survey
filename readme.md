@@ -10,7 +10,7 @@ Create and manage surveys within your Laravel app.
 ## Installation
 Require the package using composer.
 ```bash
-composer require matt-daneshvar/laravel-survey
+composer chapdel/survey-for-laravel
 ```
 
 Publish the package migrations.
