@@ -1,5 +1,5 @@
 {
-  "name": "matt-daneshvar/laravel-survey",
+  "name": "chapdel/survey-for-laravel",
   "description": "Create surveys inside your Laravel app",
   "keywords": [
     "laravel",
@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "php": "^7.3|^7.4|^8.0|^8.1",
+    "php": "^7.3|^7.4|^8.0|^8.1|^8.2",
     "illuminate/database": "^6.0|^7.0|^8.0|^9.0|^10.0"
   },
   "require-dev": {
